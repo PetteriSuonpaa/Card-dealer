@@ -1,8 +1,10 @@
-# Automated Card Dealer 🎴  
+# Automated Card Dealer 
 - [Poster (PDF)](Card-dealer-poster.pdf)
+  
 <p align="left">
   <img src="card-dealer-photo.png" alt="Card Dealer Prototype" width="400" height="500"/>
 </p>
+
 This project was developed as part of the course **KON-C3003 – Mekatroniikan harjoitustyö (5 ECTS)**.  
 I was responsible for **electronics design** and served as the **team leader**.  
 

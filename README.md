@@ -78,11 +78,6 @@ The card dealer successfully achieved the desired functionality. Throughout the 
 
 ---
 
-## 📹 Videos  
-*(Insert demo video links or thumbnails here)*  
-
----
-
 ## 👥 Team Members  
 - Petteri Suonpää  
 - Elmo Laine  

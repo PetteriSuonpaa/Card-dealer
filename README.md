@@ -31,11 +31,15 @@ The system automates card distribution using an **Arduino Uno**:
 - A4988 Stepper Driver  
 - D24V5F5 Voltage Regulator  
 - SSD1306 OLED Screen  
+<p align="left">
+  <img src="./image-2025-3-31_14-29-22.png" alt="Card Dealer Prototype" width="500"/>
+</p>
 
+- [Electronics KiCad (PDF)](Card-dealer-circuit_reall.pdf)  
 ---
 
 ## 💻 Code  
-- [`card_dealer_3.0.ino`](./card_dealer_3.0.ino)  
+- [card_dealer_code (PDF)](arduino_code_for_card_dealer.pdf)  
 
 ---
 
@@ -44,8 +48,9 @@ The system automates card distribution using an **Arduino Uno**:
 - `dealer-roll.par`  
 - `dealer-top.par`  
 - `dealer-middle-ring.prt`  
-- `dealer-bottom.prt`  
-
+- `dealer-bottom.prt`
+  
+- [card_dealer_3D-parts (PDF)](dealer-parts.pdf)
 ---
 
 ## 🔨 Building Process  

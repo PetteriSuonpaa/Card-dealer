@@ -1,6 +1,8 @@
 # Automated Card Dealer 🎴  
 - [Poster (PDF)](Card-dealer-poster.pdf)
-  
+<p align="left">
+  <img src="card-dealer-photo.png" alt="Card Dealer Prototype" width="400" height="500"/>
+</p>
 This project was developed as part of the course **KON-C3003 – Mekatroniikan harjoitustyö (5 ECTS)**.  
 I was responsible for **electronics design** and served as the **team leader**.  
 
@@ -9,7 +11,6 @@ The system automates card distribution using an **Arduino Uno**:
 - A **stepper motor** rotates to position them accurately.  
 - Users set **player count** and **card count** via **potentiometers**, displayed on an **OLED screen**.  
 - Dealing starts with a **push button**.  
-
 ---
 
 ## 🛠 Mechanics  

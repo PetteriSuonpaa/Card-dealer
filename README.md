@@ -1,5 +1,6 @@
 # Automated Card Dealer 🎴  
-
+- [Poster (PDF)](Card-dealer-poster.pdf)
+  
 This project was developed as part of the course **KON-C3003 – Mekatroniikan harjoitustyö (5 ECTS)**.  
 I was responsible for **electronics design** and served as the **team leader**.  
 
